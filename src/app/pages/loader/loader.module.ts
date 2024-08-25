@@ -17,4 +17,4 @@ import { LoaderPage } from './loader.page';
   ],
   declarations: [LoaderPage]
 })
-export class LoaderPageModule {}
+export class LoaderPageModule { }
